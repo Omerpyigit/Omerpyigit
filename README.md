@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerpyigit" alt="omerpyigit" /></a> </p>
-
+####  :iphone: **Kotlin Mobil Developer - Computer Engineer**
 - 🔭 I’m currently working on **Android Development**
 
 - 🌱 I’m currently learning **Kotlin, Python**
